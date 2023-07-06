@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  },
+  "name": "insta-tailwind",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  
+  "scripts": {
+    "dev" :"npx tailwindcss -i ./input.css -o ./dist/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
